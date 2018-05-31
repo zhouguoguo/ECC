@@ -1,3 +1,5 @@
 .idea/
 target/
 ecc.iml
+*.pdf
+*.cer
